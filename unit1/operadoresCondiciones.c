@@ -37,6 +37,7 @@ int main(int argc, char** argv){
     if (inputTemp <= 29){
         //Robobt move (x_axis, y_axis)
     }
+    
 
     return 0;
 }
